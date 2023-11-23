@@ -107,10 +107,6 @@ I'm **Mahdi Eghbali**, Tempe, Arizona, US and a
 
 
 ### 📊 Github Stats and Activity
-<h3>🚀 Github Achivements</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maksymdev701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
   <h3>💻 GitHub Profile Stats</h3>
 
 
