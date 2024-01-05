@@ -4,7 +4,7 @@ I'm **Mahdi Eghbali**, Tempe, Arizona, US and a
 - Blockchain expert, Research Associate, ASU Blockchain Research Lab, Arizona State University, W. P. Carey School of Business
 - Full-Stack Web Engineer
 - Entrepreneurship & marketing specialist
-- Startup business consultant
+- Startup and business consultant
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ I'm **Mahdi Eghbali**, Tempe, Arizona, US and a
 - 🔭 &nbsp; I’m currently working on **Web & Mobile development for businesses**
 - 🤝 &nbsp; I’m looking to collaborate on **Entrepreneurs, Business startup & development**
 - 🌱 &nbsp; I’m currently learning **Go**
-- 👨🏻‍💻 &nbsp; Most of my projects private and publics are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects private and public are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything **tech & business** related, I am happy to help
 - 📚 &nbsp; When I am free, I watch **Premier League & La Liga** and **Listening Musics & Running**
