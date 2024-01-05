@@ -15,10 +15,10 @@ My name is **Mahdi Eghbali**, and I reside in Tempe, Arizona, USA. I am a:
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Programming and software development for businesses**
-- 🤝 &nbsp; I’m interested in collaborating with entrepreneurs on **New venture creation & development**
+- 🔭 &nbsp; I’m currently working on **programming and software development for businesses**
+- 🤝 &nbsp; I’m interested in collaborating with entrepreneurs on **new venture creation & development**
 - 🌱 &nbsp; I’m currently learning **Go**
-- 👨🏻‍💻 &nbsp; Most of my projects private and public are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my private and public projects are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything related to **tech & business**; happy to help!
 - 📚 &nbsp; When I am free, I watch **Premier League & La Liga** and **Listen to Music**
