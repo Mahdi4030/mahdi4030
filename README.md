@@ -1,10 +1,12 @@
-## Development is enjoying 👋!
+## I love programming 👋!
 
-I'm **Mahdi Eghbali**, Tempe, Arizona, US and a
-- Blockchain expert, Research Associate, ASU Blockchain Research Lab, Arizona State University, W. P. Carey School of Business
-- Full-Stack Web Engineer
-- Entrepreneurship & marketing specialist
+My name is **Mahdi Eghbali**, and I reside in Tempe, Arizona, USA. I am a:
+- Tech-savvy economist
 - Startup and business consultant
+- Programmer and full-stack software engineer
+- Digital economy, entrepreneurship, & innovation researcher
+- Blockchain expert and research associate at ASU Blockchain Research Lab
+
 
 <br/>
 <br/>
@@ -13,13 +15,13 @@ I'm **Mahdi Eghbali**, Tempe, Arizona, US and a
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Web & Mobile development for businesses**
-- 🤝 &nbsp; I’m looking to collaborate on **Entrepreneurs, Business startup & development**
+- 🔭 &nbsp; I’m currently working on **Programming and software development for businesses**
+- 🤝 &nbsp; I’m interested in collaborating with entrepreneurs on **New venture creation & development**
 - 🌱 &nbsp; I’m currently learning **Go**
 - 👨🏻‍💻 &nbsp; Most of my projects private and public are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything **tech & business** related, I am happy to help
-- 📚 &nbsp; When I am free, I watch **Premier League & La Liga** and **Listening Musics & Running**
+- 💬 &nbsp; Ask me about anything related to **tech & business**; happy to help!
+- 📚 &nbsp; When I am free, I watch **Premier League & La Liga** and **Listen to Music**
 
 <br>
 
