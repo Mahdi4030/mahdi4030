@@ -1,6 +1,6 @@
 ## I love programming 👋!
 
-My name is **Mahdi Eghbali**, and I reside in Tempe, Arizona, USA. I am a:
+My name is **Mahdi Eghbali**, and I am a:
 - Tech-savvy economist
 - Startup and business consultant
 - Programmer and full-stack software engineer
