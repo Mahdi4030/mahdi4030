@@ -15,7 +15,7 @@ My name is **Mahdi Eghbali**, and I am a:
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **programming and software development for businesses**
+- 🔭 &nbsp; I’m currently working on **programming and software development**
 - 🤝 &nbsp; I’m interested in collaborating with entrepreneurs on **new venture creation & development**
 - 🌱 &nbsp; I’m currently learning **Go**
 - 👨🏻‍💻 &nbsp; Most of my private and public projects are available on [https://github.com/mahdi4030?tab=repositories](https://github.com/mahdi4030?tab=repositories)
